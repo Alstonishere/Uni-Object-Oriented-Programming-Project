@@ -1,4 +1,0 @@
-staffID,password,role
-admin01,encryptedpassword,admin
-staff123,encryptedpassword,staff
-ADMINISTRATOR,˜˙ː˔˓ʌʏʎʉʈ,admin
